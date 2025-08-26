@@ -1,0 +1,9 @@
+
+:root
+{
+    --skin-color:#37b7bb;
+}
+::selection
+{
+    background-color: #d1b761;
+}
